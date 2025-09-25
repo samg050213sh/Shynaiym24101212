@@ -26,11 +26,11 @@ A Python game where the player controls a red turtle (arrow keys/WASD) to catch 
 - Blue turtle: Speed 12, turn rate 10 (+5 when escaping)
 - Catch radius: 50 pixels
 
-## How to Run
 ## Controls
  - Arrow Keys or WASD: Move red turtle
  - Objective: Catch blue turtle as many times as possible in 60 seconds
  
 ## How to Run
 ```bash
+
 !python turtle2.0.py
