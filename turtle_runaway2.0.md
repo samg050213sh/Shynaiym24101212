@@ -30,10 +30,12 @@ A Python game where the player controls a red turtle (arrow keys/WASD) to catch 
  - Objective: Catch blue turtle as many times as possible in 60 seconds
 
 ## Image
-![This is an alt text.](C:/Users/user/Desktop/proshyna/turtle_runaway2.0.png) 
+![Screenshot](<img width="809" height="688" alt="turtle_runaway2 0" src="https://github.com/user-attachments/assets/bc6a62f5-3bc4-488b-a253-e5b761a71aa3" />
+) 
  
 ## How to Run
 ```bash
 
 !python turtle2.0.py
+
 
