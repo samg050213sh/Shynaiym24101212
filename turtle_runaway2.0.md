@@ -19,7 +19,6 @@ A Python game where the player controls a red turtle (arrow keys/WASD) to catch 
 ### 3. Smooth Visual Interface
 - Stable text display: No flickering with optimized drawing
 - Game timer: Countdown display with final score
-- Dual controls: Support for both arrow keys and WASD
 
 ### 4. Game Balance
 - Red turtle: Speed 15, turn rate 15
@@ -29,8 +28,12 @@ A Python game where the player controls a red turtle (arrow keys/WASD) to catch 
 ## Controls
  - Arrow Keys or WASD: Move red turtle
  - Objective: Catch blue turtle as many times as possible in 60 seconds
+
+## Image
+![This is an alt text.](C:/Users/user/Desktop/proshyna/turtle_runaway2.0.png) 
  
 ## How to Run
 ```bash
 
 !python turtle2.0.py
+
